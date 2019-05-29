@@ -1,0 +1,431 @@
+{
+  "current": {
+    "color_body_bg": "#ffffff",
+    "color_body_text": "#333333",
+    "color_primary_color": "#197bbd",
+    "color_primary_button_text": "#ffffff",
+    "color_sale_badge": "#c8493f",
+    "color_borders": "#e8e8e8",
+    "color_form": "#f4f4f4",
+    "color_image_overlay_text": "#060704",
+    "color_image_overlay": "#f3f0ec",
+    "image_overlay_opacity": 23,
+    "type_header_font": "antique_olive_n7",
+    "type_header_base_size": "20px",
+    "type_base_font": "antique_olive_n3",
+    "type_base_size": "14px",
+    "type_button_base_size": "14px",
+    "type_navigation_base_size": "16px",
+    "cart_enable_ajax": true,
+    "show_breadcrumb_nav": true,
+    "share_image": "shopify:\/\/shop_images\/Facebook_Cover_A.png",
+    "social_facebook_link": "",
+    "social_twitter_link": "",
+    "social_pinterest_link": "",
+    "social_instagram_link": "",
+    "social_snapchat_link": "",
+    "social_google_plus_link": "",
+    "social_tumblr_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "social_fancy_link": "",
+    "main_blog": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "favicon": "shopify:\/\/shop_images\/Facebook_Cover_A.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/Twitter_Cover_A.png",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "large",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "sections": {
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "menu",
+            "settings": {
+              "title": "Liens",
+              "menu": "mentions-legales"
+            }
+          },
+          "1555886123437": {
+            "type": "newsletter",
+            "settings": {
+              "subtext": "<p>Promotions, nouveaux produits et soldes. Directement dans votre boîte de réception.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "1555886123437"
+        ],
+        "settings": {
+          "show_payment_icons": true
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/banniere_scrollshop_univers_-5.jpg",
+          "logo_max_width": "3000",
+          "show_announcement": true,
+          "home_page_only": true,
+          "announcement_text": "SCROLLSHOP BIENVENUE !",
+          "announcement_link": "shopify:\/\/collections",
+          "tagline": ""
+        }
+      },
+      "sidebar": {
+        "type": "sidebar",
+        "settings": {
+          "main_menu_link_list": "main-menu"
+        }
+      },
+      "1555885182215": {
+        "type": "collection-list",
+        "blocks": {
+          "1555885182215-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "femme"
+            }
+          },
+          "1555995338259": {
+            "type": "collection",
+            "settings": {
+              "collection": "enfant"
+            }
+          },
+          "1555885182215-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "homme"
+            }
+          },
+          "1555885182215-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "high-tech"
+            }
+          },
+          "1555885226391": {
+            "type": "collection",
+            "settings": {
+              "collection": "frontpage"
+            }
+          },
+          "1555995369980": {
+            "type": "collection",
+            "settings": {
+              "collection": "montre"
+            }
+          },
+          "1556650448394": {
+            "type": "collection",
+            "settings": {
+              "collection": "lunette"
+            }
+          },
+          "1556650468540": {
+            "type": "collection",
+            "settings": {
+              "collection": "lunette-homme"
+            }
+          }
+        },
+        "block_order": [
+          "1555885182215-0",
+          "1555995338259",
+          "1555885182215-1",
+          "1555885182215-2",
+          "1555885226391",
+          "1555995369980",
+          "1556650448394",
+          "1556650468540"
+        ],
+        "settings": {
+          "title": "CATEGORIES",
+          "grid": 4
+        }
+      },
+      "1555885282933": {
+        "type": "slideshow",
+        "blocks": {
+          "1555885282933-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pouring-hot-coffee.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 35,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Pausé ? Scrollez !",
+              "button_label": "CLIQUEZ ICI",
+              "button_link": "shopify:\/\/collections"
+            }
+          },
+          "1555885282933-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/brown-packing-being-shipped.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Scroller de plaisir",
+              "button_label": "CLIQUEZ ICI",
+              "button_link": "shopify:\/\/collections"
+            }
+          },
+          "1555885673100": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/mountain-magic-hour.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "Scroller en paix !",
+              "button_label": "CLIQUEZ ICI",
+              "button_link": "shopify:\/\/collections"
+            }
+          }
+        },
+        "block_order": [
+          "1555885282933-0",
+          "1555885282933-1",
+          "1555885673100"
+        ],
+        "settings": {
+          "slider_height": "medium",
+          "slider_home_auto": true,
+          "slider_home_rate": 3,
+          "slider_home_transition": "fade",
+          "text_size": "medium"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "vendor_show": false,
+          "collection_sort_enable": true,
+          "collection_tag_enable": false
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "grid": 3
+        }
+      },
+      "1556033378875": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "new-summer-fashion-red-lips-slim-t-shirts-print-women-girl-t-shirt-cotton-womens-clothing-short-sleeve-tee",
+          "product_quantity_enable": true,
+          "vendor_show": true,
+          "social_sharing_products": true,
+          "enable_payment_button": true,
+          "add_to_cart_width": "full_width"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_quantity_enable": true,
+          "vendor_show": true,
+          "social_sharing_products": true,
+          "product_description_position": "below",
+          "show_extra_tab": true,
+          "extra_tab_content": "",
+          "product_image_zoom_type": "zoom-in",
+          "enable_payment_button": true,
+          "add_to_cart_width": "regular"
+        }
+      },
+      "1556650504677": {
+        "type": "featured-products",
+        "settings": {
+          "title": "Collection LUNETTE HOMME",
+          "home_page_featured_products": "lunette-homme",
+          "home_featured_products_row_num": 3
+        }
+      },
+      "1556650575587": {
+        "type": "featured-products",
+        "settings": {
+          "title": "Collection LUNETTE FEMME",
+          "home_page_featured_products": "lunette",
+          "home_featured_products_row_num": 2
+        }
+      },
+      "1557033889527": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "kids-harajuku-dabbing-unicorn-print-t-shirt-children-summer-white-tops-boys-and-girls-cartoon-funny-t-shirt-hkp5189",
+          "product_quantity_enable": true,
+          "vendor_show": false,
+          "social_sharing_products": true,
+          "enable_payment_button": true,
+          "add_to_cart_width": "regular"
+        }
+      },
+      "1557077824556": {
+        "type": "featured-products",
+        "settings": {
+          "title": "Montre  pour Homme",
+          "home_page_featured_products": "montre-homme",
+          "home_featured_products_row_num": 7
+        }
+      },
+      "1557077870906": {
+        "type": "featured-products",
+        "settings": {
+          "title": "T-shirt Vegan",
+          "home_page_featured_products": "vegan-is-hmm",
+          "home_featured_products_row_num": 3
+        }
+      },
+      "93e38744d9b3": {
+        "type": "featured-content",
+        "settings": {
+          "section_title": "Shopez votre Code Promo -20%  Fête des pères",
+          "text": "<p>Inscrivez-vous &agrave; la <em>News letter <\/em>pour en profiter.<\/p>",
+          "text_size": "large"
+        }
+      }
+    },
+    "content_for_index": [
+      "93e38744d9b3",
+      "1557077824556",
+      "1556650504677",
+      "1557077870906",
+      "1557033889527",
+      "1556650575587",
+      "1556033378875",
+      "1555885182215",
+      "1555885282933"
+    ]
+  },
+  "presets": {
+    "Light": {
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#333333",
+      "color_primary_color": "#333333",
+      "color_primary_button_text": "#ffffff",
+      "color_sale_badge": "#c8493f",
+      "color_borders": "#e8e8e8",
+      "color_form": "#f4f4f4",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#333333",
+      "image_overlay_opacity": "25",
+      "type_header_font": "times_new_roman_n4",
+      "type_header_base_size": "28px",
+      "type_base_font": "helvetica_n4",
+      "type_base_size": "15px",
+      "type_button_base_size": "14px",
+      "type_navigation_base_size": "16px",
+      "show_breadcrumb_nav": true,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "featured-products": {
+          "type": "featured-products",
+          "settings": {
+            "home_page_featured_products": "frontpage"
+          }
+        },
+        "featured-content": {
+          "type": "featured-content",
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0"
+          ],
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "featured-products",
+        "featured-content"
+      ]
+    },
+    "Beauty": {
+      "color_body_bg": "#f7f7f7",
+      "color_body_text": "#3c4049",
+      "color_primary_color": "#d97c76",
+      "color_primary_button_text": "#ffffff",
+      "color_sale_badge": "#d97c76",
+      "color_borders": "#d7d8d2",
+      "color_form": "#ffffff",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#3c4049",
+      "image_overlay_opacity": "25",
+      "type_header_font": "pt_serif_n7",
+      "type_header_base_size": "28px",
+      "type_base_font": "pt_serif_n4",
+      "type_base_size": "16px",
+      "type_button_base_size": "12px",
+      "type_navigation_base_size": "16px",
+      "show_breadcrumb_nav": true,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "featured-products": {
+          "type": "featured-products",
+          "settings": {
+            "home_page_featured_products": "frontpage"
+          }
+        },
+        "featured-content": {
+          "type": "featured-content",
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0"
+          ],
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "featured-products",
+        "featured-content"
+      ]
+    }
+  }
+}
